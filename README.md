@@ -22,8 +22,8 @@ This QR Code Component is created and designed by Adhham Safwan.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/adhhamdev/qr-code-component-main)
+- Live Site URL: (https://adhhamdev.github.io/qr-code-component-main/)
 
 ### Built with
 
@@ -35,6 +35,6 @@ This QR Code Component is created and designed by Adhham Safwan.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - (https://www.your-site.com)
+- Frontend Mentor - [@adhhamdev](https://www.frontendmentor.io/profile/adhhamdev)
+- Twitter - [@AdhhamDev](https://www.twitter.com/AdhhamDev)
